@@ -1,0 +1,6 @@
+framework module Pods_AmeDigital_challenge_iosUITests {
+  umbrella header "Pods-AmeDigital-challenge-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
