@@ -1,6 +1,0 @@
-framework module Pods_AmeDigital_challenge_ios {
-  umbrella header "Pods-AmeDigital-challenge-ios-umbrella.h"
-
-  export *
-  module * { export * }
-}
